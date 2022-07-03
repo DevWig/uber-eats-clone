@@ -1,0 +1,28 @@
+.typeTabContainer {
+  flex-direction: row;
+  align-self: center;
+}
+
+.typeButton {
+  padding: 6px 16px;
+  border-radius: 30px;
+}
+
+.typeButtonText {
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.searchContainer {
+  margin-top: 15px;
+  flex-direction: row;
+}
+
+.searchBarBtn {
+  flex-direction: row;
+  margin-right: 8px;
+  align-items: center;
+  background-color: white;
+  padding: 9px;
+  border-radius: 30px;
+}

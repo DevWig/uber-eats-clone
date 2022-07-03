@@ -1,0 +1,13 @@
+.container {
+  background-color: #eee;
+  height: 100%;
+}
+
+.headerContainer {
+  background-color: white ;
+  padding: 15px;
+}
+
+.text {
+  background-color: blue;
+}
